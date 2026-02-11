@@ -72,9 +72,9 @@ media query
 
 ## Author
 
-- Website - [Sadeeq-dev](https://www.your-site.com)
-- Frontend Mentor - [@Sadeeq-dev](https://www.frontendmentor.io/profile/Sadeeq-dev)
-- Twitter - [@yahayasadiq14](https://www.twitter.com/yahayasadiq14)
+
+- Frontend Mentor - [@Dev-sadeeq](https://www.frontendmentor.io/profile/Dev-sadeeq)
+- Twitter - [@Dev_sadeeqq](https://www.twitter.com/Dev_sadeeqq)
 
 
 ## Acknowledgments
